@@ -1,2 +1,2 @@
-# version - 1 of pig game.
+# version - 1 of greed game.
 
